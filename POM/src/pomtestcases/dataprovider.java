@@ -9,7 +9,7 @@ public class dataprovider {
 	public Object[][] mydata()
 	{
 		Object[][] data=new Object[3][2];
-		data[0][0]="first";
+		data[0][0]="sixth";
 		data[0][1]="second";
 		data[1][0]="third";
 		data[1][1]="fourth";
